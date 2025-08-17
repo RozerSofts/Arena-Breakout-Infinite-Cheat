@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Arena Breakout – Aim Assist with ESP Tool</strong></h1>
+<h1 align="center"><strong>Arena Breakout Infinite - Cheat</strong></h1>
 
 <p align="center">
   <img src="https://nyxgameawards.com/upload/entry/files/NGE101496/39321695183344.jpg" width="580" alt="Arena Breakout Logo" />
